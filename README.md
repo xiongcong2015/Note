@@ -1,2 +1,2 @@
 # Note
-笔记
+some notes
