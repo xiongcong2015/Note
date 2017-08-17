@@ -33,3 +33,10 @@ $ git config user.name
  $ git clone git://github.com/xiongcong2015/Note
  $ git status
 ```
+2. change commit message
+
+ ```
+ $ git commit --amend
+ // change last commit message and force push to repo
+ $ git push -f [url]
+```
